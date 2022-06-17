@@ -1,0 +1,11 @@
+D:\VisualstudioRepos\WindowsApps\OnlineSchoolModernV2.0\OnlineSchoolModernV2.0\bin\Debug\OnlineSchoolModernV2.0.exe.config
+D:\VisualstudioRepos\WindowsApps\OnlineSchoolModernV2.0\OnlineSchoolModernV2.0\bin\Debug\OnlineSchoolModernV2.0.exe
+D:\VisualstudioRepos\WindowsApps\OnlineSchoolModernV2.0\OnlineSchoolModernV2.0\bin\Debug\OnlineSchoolModernV2.0.pdb
+D:\VisualstudioRepos\WindowsApps\OnlineSchoolModernV2.0\OnlineSchoolModernV2.0\obj\Debug\OnlineSchoolModernV2.0.csproj.AssemblyReference.cache
+D:\VisualstudioRepos\WindowsApps\OnlineSchoolModernV2.0\OnlineSchoolModernV2.0\obj\Debug\OnlineSchoolModernV2.0.csproj.SuggestedBindingRedirects.cache
+D:\VisualstudioRepos\WindowsApps\OnlineSchoolModernV2.0\OnlineSchoolModernV2.0\obj\Debug\OnlineSchoolModernV2._0.initialization.resources
+D:\VisualstudioRepos\WindowsApps\OnlineSchoolModernV2.0\OnlineSchoolModernV2.0\obj\Debug\OnlineSchoolModernV2._0.Properties.Resources.resources
+D:\VisualstudioRepos\WindowsApps\OnlineSchoolModernV2.0\OnlineSchoolModernV2.0\obj\Debug\OnlineSchoolModernV2.0.csproj.GenerateResource.cache
+D:\VisualstudioRepos\WindowsApps\OnlineSchoolModernV2.0\OnlineSchoolModernV2.0\obj\Debug\OnlineSchoolModernV2.0.csproj.CoreCompileInputs.cache
+D:\VisualstudioRepos\WindowsApps\OnlineSchoolModernV2.0\OnlineSchoolModernV2.0\obj\Debug\OnlineSchoolModernV2.0.exe
+D:\VisualstudioRepos\WindowsApps\OnlineSchoolModernV2.0\OnlineSchoolModernV2.0\obj\Debug\OnlineSchoolModernV2.0.pdb
