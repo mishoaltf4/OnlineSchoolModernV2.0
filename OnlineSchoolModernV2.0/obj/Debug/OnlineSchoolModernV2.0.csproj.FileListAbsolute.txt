@@ -9,3 +9,4 @@ D:\VisualstudioRepos\WindowsApps\OnlineSchoolModernV2.0\OnlineSchoolModernV2.0\o
 D:\VisualstudioRepos\WindowsApps\OnlineSchoolModernV2.0\OnlineSchoolModernV2.0\obj\Debug\OnlineSchoolModernV2.0.csproj.CoreCompileInputs.cache
 D:\VisualstudioRepos\WindowsApps\OnlineSchoolModernV2.0\OnlineSchoolModernV2.0\obj\Debug\OnlineSchoolModernV2.0.exe
 D:\VisualstudioRepos\WindowsApps\OnlineSchoolModernV2.0\OnlineSchoolModernV2.0\obj\Debug\OnlineSchoolModernV2.0.pdb
+D:\VisualstudioRepos\WindowsApps\OnlineSchoolModernV2.0\OnlineSchoolModernV2.0\obj\Debug\OnlineSchoolModernV2._0.StudentPage.resources
